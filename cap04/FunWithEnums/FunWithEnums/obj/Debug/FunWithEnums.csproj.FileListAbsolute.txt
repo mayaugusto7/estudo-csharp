@@ -1,0 +1,6 @@
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\FunWithEnums\FunWithEnums\bin\Debug\FunWithEnums.exe.config
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\FunWithEnums\FunWithEnums\bin\Debug\FunWithEnums.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\FunWithEnums\FunWithEnums\bin\Debug\FunWithEnums.pdb
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\FunWithEnums\FunWithEnums\obj\Debug\FunWithEnums.csprojResolveAssemblyReference.cache
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\FunWithEnums\FunWithEnums\obj\Debug\FunWithEnums.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\FunWithEnums\FunWithEnums\obj\Debug\FunWithEnums.pdb

@@ -1,0 +1,6 @@
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\ConsoleFormatOutput\ConsoleFormatOutput\bin\Debug\ConsoleFormatOutput.exe.config
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\ConsoleFormatOutput\ConsoleFormatOutput\bin\Debug\ConsoleFormatOutput.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\ConsoleFormatOutput\ConsoleFormatOutput\bin\Debug\ConsoleFormatOutput.pdb
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\ConsoleFormatOutput\ConsoleFormatOutput\obj\Debug\ConsoleFormatOutput.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\ConsoleFormatOutput\ConsoleFormatOutput\obj\Debug\ConsoleFormatOutput.pdb
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\ConsoleFormatOutput\ConsoleFormatOutput\obj\Debug\ConsoleFormatOutput.csprojResolveAssemblyReference.cache

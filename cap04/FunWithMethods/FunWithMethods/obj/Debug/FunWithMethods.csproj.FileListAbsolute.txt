@@ -1,0 +1,6 @@
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.exe.config
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.pdb
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.csprojResolveAssemblyReference.cache
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.pdb

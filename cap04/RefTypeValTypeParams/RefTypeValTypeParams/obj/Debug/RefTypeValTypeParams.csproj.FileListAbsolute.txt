@@ -1,0 +1,6 @@
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\RefTypeValTypeParams\RefTypeValTypeParams\bin\Debug\RefTypeValTypeParams.exe.config
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\RefTypeValTypeParams\RefTypeValTypeParams\bin\Debug\RefTypeValTypeParams.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\RefTypeValTypeParams\RefTypeValTypeParams\bin\Debug\RefTypeValTypeParams.pdb
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\RefTypeValTypeParams\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.csprojResolveAssemblyReference.cache
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\RefTypeValTypeParams\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\RefTypeValTypeParams\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.pdb

@@ -1,0 +1,6 @@
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\StringDataTypes\StringDataTypes\bin\Debug\StringDataTypes.exe.config
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\StringDataTypes\StringDataTypes\bin\Debug\StringDataTypes.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\StringDataTypes\StringDataTypes\bin\Debug\StringDataTypes.pdb
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\StringDataTypes\StringDataTypes\obj\Debug\StringDataTypes.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\StringDataTypes\StringDataTypes\obj\Debug\StringDataTypes.pdb
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\StringDataTypes\StringDataTypes\obj\Debug\FunWithStrings.csprojResolveAssemblyReference.cache

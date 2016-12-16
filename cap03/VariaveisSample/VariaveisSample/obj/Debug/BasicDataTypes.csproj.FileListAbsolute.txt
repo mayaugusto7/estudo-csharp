@@ -1,0 +1,5 @@
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\VariaveisSample\VariaveisSample\bin\Debug\VariaveisSample.exe.config
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\VariaveisSample\VariaveisSample\bin\Debug\VariaveisSample.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\VariaveisSample\VariaveisSample\bin\Debug\VariaveisSample.pdb
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\VariaveisSample\VariaveisSample\obj\Debug\VariaveisSample.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\VariaveisSample\VariaveisSample\obj\Debug\VariaveisSample.pdb

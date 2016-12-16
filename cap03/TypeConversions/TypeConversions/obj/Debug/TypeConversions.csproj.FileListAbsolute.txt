@@ -1,0 +1,7 @@
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\TypeConversions\TypeConversions\bin\Debug\TypeConversions.exe.config
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap03\TypeConversions\TypeConversions\bin\Debug\TypeConversions.exe.config
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap03\TypeConversions\TypeConversions\bin\Debug\TypeConversions.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap03\TypeConversions\TypeConversions\bin\Debug\TypeConversions.pdb
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap03\TypeConversions\TypeConversions\obj\Debug\TypeConversions.csprojResolveAssemblyReference.cache
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap03\TypeConversions\TypeConversions\obj\Debug\TypeConversions.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap03\TypeConversions\TypeConversions\obj\Debug\TypeConversions.pdb

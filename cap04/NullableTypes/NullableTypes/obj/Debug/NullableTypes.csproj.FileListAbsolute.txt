@@ -1,0 +1,1 @@
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\NullableTypes\NullableTypes\bin\Debug\NullableTypes.exe.config

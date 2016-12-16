@@ -1,0 +1,6 @@
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap03\ImplicityTypedLocalVars\ImplicityTypedLocalVars\bin\Debug\ImplicityTypedLocalVars.exe.config
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap03\ImplicityTypedLocalVars\ImplicityTypedLocalVars\bin\Debug\ImplicityTypedLocalVars.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap03\ImplicityTypedLocalVars\ImplicityTypedLocalVars\bin\Debug\ImplicityTypedLocalVars.pdb
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap03\ImplicityTypedLocalVars\ImplicityTypedLocalVars\obj\Debug\ImplicityTypedLocalVars.csprojResolveAssemblyReference.cache
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap03\ImplicityTypedLocalVars\ImplicityTypedLocalVars\obj\Debug\ImplicityTypedLocalVars.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap03\ImplicityTypedLocalVars\ImplicityTypedLocalVars\obj\Debug\ImplicityTypedLocalVars.pdb

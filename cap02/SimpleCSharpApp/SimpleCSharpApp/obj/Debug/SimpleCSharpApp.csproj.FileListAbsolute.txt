@@ -1,0 +1,5 @@
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.exe.config
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.pdb
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.pdb

@@ -1,0 +1,6 @@
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\Sample01\Sample01\bin\Debug\Sample01.exe.config
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\Sample01\Sample01\bin\Debug\Sample01.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\Sample01\Sample01\bin\Debug\Sample01.pdb
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\Sample01\Sample01\obj\Debug\Sample01.csprojResolveAssemblyReference.cache
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\Sample01\Sample01\obj\Debug\Sample01.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\Sample01\Sample01\obj\Debug\Sample01.pdb

@@ -1,0 +1,6 @@
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap03\InterationsAndDecisions\InterationsAndDecisions\bin\Debug\InterationsAndDecisions.exe.config
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap03\InterationsAndDecisions\InterationsAndDecisions\bin\Debug\InterationsAndDecisions.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap03\InterationsAndDecisions\InterationsAndDecisions\bin\Debug\InterationsAndDecisions.pdb
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap03\InterationsAndDecisions\InterationsAndDecisions\obj\Debug\InterationsAndDecisions.csprojResolveAssemblyReference.cache
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap03\InterationsAndDecisions\InterationsAndDecisions\obj\Debug\InterationsAndDecisions.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap03\InterationsAndDecisions\InterationsAndDecisions\obj\Debug\InterationsAndDecisions.pdb
