@@ -1,1 +1,7 @@
 C:\Users\mayco\Desktop\projetos\c#-livro\visualstudio\cap04\NullableTypes\NullableTypes\bin\Debug\NullableTypes.exe.config
+C:\Users\mayco\Desktop\projetos\c#-livro\cap04\NullableTypes\NullableTypes\bin\Debug\NullableTypes.exe.config
+C:\Users\mayco\Desktop\projetos\c#-livro\cap04\NullableTypes\NullableTypes\bin\Debug\NullableTypes.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\cap04\NullableTypes\NullableTypes\bin\Debug\NullableTypes.pdb
+C:\Users\mayco\Desktop\projetos\c#-livro\cap04\NullableTypes\NullableTypes\obj\Debug\NullableTypes.csprojResolveAssemblyReference.cache
+C:\Users\mayco\Desktop\projetos\c#-livro\cap04\NullableTypes\NullableTypes\obj\Debug\NullableTypes.exe
+C:\Users\mayco\Desktop\projetos\c#-livro\cap04\NullableTypes\NullableTypes\obj\Debug\NullableTypes.pdb

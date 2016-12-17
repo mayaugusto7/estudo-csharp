@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace NullableTypes
+{
+    /// <summary>
+    /// Nullable Types 
+    /// Tipos locais anulaveis
+    /// 
+    /// Tipos de valor jamais podem receber null ex: bool {true, false}
+    /// Nullable Types (Tipos locais anulaveis)  usamos '?' ele permite o uso de null ex: bool {true, false, null}
+    ///
+    /// </summary>
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        }
+
+        static void LocalNullableVariables()
+        {
+            // Defina alguns tipos locais anulaveis
+            int? nullableInt = 10;
+            double? nullableDouble = 3.14;
+            bool? nullableBool = null;
+            char? nullableChar = 'a';
+            int?[] arrayOfNullableInts = new int?[10];
+
+            // Erro! Strings são tipos de referência
+            // string? s = "oops";
+        }
+    }
+}
