@@ -43,7 +43,38 @@ namespace SimpleClassExample
                 myCar.PrintState();
             }
 
+            Console.WriteLine("\n");
+
+            Motorcycle c = new Motorcycle(5);
+            c.setDriverName("Tiny");
+            c.PopAWheely();
+            Console.WriteLine("Rider name is {0}", c.name);// Imprime nome vazio
+
+            Console.WriteLine("\n");
+            MakeSomeBikes();
+
             Console.ReadLine();
+        }
+
+        /// <summary>
+        /// Chamada de construtores com argumentos opcionais
+        /// Motorcycle02
+        /// </summary>
+        static void MakeSomeBikes()
+        {
+            // driveName = "", driverIntensity = 0
+            Motorcycle02 m1 = new Motorcycle02();
+            Console.WriteLine("Name= {0}, Intensity= {1}", m1.driverName, m1.driverIntensity);
+
+            // driveName = "Tiny", driverIntensity = 0
+            Motorcycle02 m2 = new Motorcycle02(name: "Tiny");
+            Console.WriteLine("Name= {0}, Intensity= {1}", m2.driverName, m2.driverIntensity);
+
+            // driveName = "", driverIntensity = 7
+            Motorcycle02 m3 = new Motorcycle02(7);
+            Console.WriteLine("Name= {0}, Intensity= {1}", m3.driverName, m3.driverIntensity);
+
+            Console.WriteLine("\n");
         }
     }
 }

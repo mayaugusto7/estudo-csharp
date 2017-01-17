@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 /// </summary>
 namespace SimpleClassExample
 {
-    class Motorcycle
+    class Motorcycle02
     {
         public int driverIntensity;
 
@@ -22,33 +22,12 @@ namespace SimpleClassExample
         public string driverName;
 
         /// <summary>
-        /// Construtor padrao explicito porque existe um construtor personalizado
-        /// Encadeamento do Construtor
-        /// </summary>
-        public Motorcycle()
-        {
-            Console.WriteLine("In default ctor");
-        }
-
-        /// <summary>
-        /// Logica redundante construtor
-        /// Construtor encadeado 
-        /// </summary>
-        /// <param name="intensity"></param>
-        public Motorcycle(int intensity) : this(intensity, "")
-        {
-            Console.WriteLine("In default ctor");
-        }
-
-        public Motorcycle(string name) : this(0, name) { }
- 
-        /// <summary>
-        /// Construtor personalizado com dois parametros
-        /// Construtor master
+        /// Construtor com argumentos opcionais
         /// </summary>
         /// <param name="intensity"></param>
         /// <param name="name"></param>
-        public Motorcycle(int intensity, string name)
+        /// <param name=""></param>
+        public Motorcycle02(int intensity = 0, string name = "")
         {
             if (intensity > 10)
             {
@@ -58,17 +37,6 @@ namespace SimpleClassExample
             driverIntensity = intensity;
             driverName = name;
         }
-
-        /**
-        public void SetIntensity(int intensity)
-        {
-            if (intensity > 10)
-            {
-                intensity = 10;
-            }
-
-            driverIntensity = intensity;
-        } **/
 
         public void PopAWheely()
         {
@@ -92,8 +60,7 @@ namespace SimpleClassExample
             // variaveis com mesmo nome 
             // refere-se aos parametros da propria classe
             this.name = name;
-
         }
-
+        
     }
 }
